@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asifali123k.github.io/dentistsflow-ai-landing-page/sitemap.xml
